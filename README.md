@@ -5,8 +5,8 @@ It is an android application that provides information about your device.
 Greek
 
 # Download
-You can download in Google Drive or in GitHub
-https://drive.google.com/drive/folders/1mqZjt2OK9S-iDoQ7v6V0f21YJWfhk7FX?usp=share_link
+You can download in Google Drive (https://drive.google.com/drive/folders/1mqZjt2OK9S-iDoQ7v6V0f21YJWfhk7FX?usp=share_link
+) or in GitHub
 
 # Application Code
 You can't find the application code at this time because this app is in beta
