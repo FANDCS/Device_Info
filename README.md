@@ -6,8 +6,8 @@ English, Greek
 
 # Download
 You can download it from:
-[Google Drive](https://drive.google.com/drive/folders/1mqZjt2OK9S-iDoQ7v6V0f21YJWfhk7FX?usp=share_link).
-[GitHub](https://github.com/FANDCS/Device_Info/releases)
+[Google Drive](https://drive.google.com/drive/folders/1mqZjt2OK9S-iDoQ7v6V0f21YJWfhk7FX?usp=share_link),
+[GitHub](https://github.com/FANDCS/Device_Info/releases),
 Uptodown
 
 # Application Code
