@@ -1,7 +1,7 @@
 # Device_Info
 It is an android application that provides information about your device.
 
-# Application Language
+# Application Languages
 English, Greek
 
 # Download
