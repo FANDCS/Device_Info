@@ -8,7 +8,7 @@ English, Greek
 You can download it from:
 [Google Drive](https://drive.google.com/drive/folders/1mqZjt2OK9S-iDoQ7v6V0f21YJWfhk7FX?usp=share_link),
 [GitHub](https://github.com/FANDCS/Device_Info/releases),
-Uptodown
+Uptodown, ApkPure
 
 # Application Code
 You can find the application code in the "Release" of each version
